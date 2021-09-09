@@ -5,6 +5,9 @@ description:this list has a collection of items not seen on the community or oth
 
 //notes:Every waking moment
 dimwishlist:item=4277547616&perks=3661387068,1885400500,2450788523,1015611457
+dimwishlist:item=4277547616&perks=3661387068,1885400500,2010801679,2848615171
+//notes: god roll if first perk is arrowhead, chambered, fluted and second high-caliber, ricochet, extended
+dimwishlist:item=4277547616&perks=2010801679,2848615171
 
 
 
