@@ -1,0 +1,10 @@
+title:kryloren wishlist
+description:this list has a collection of items not seen on the community or other places as of now. or items i personally like or want to use. 
+
+//notes:Moon weapon god rolls
+
+
+
+
+//notes:S15 god roll/try-it-out
+dimwishlist:item=4277547616&perks=1636108362,3661387068,1885400500,2450788523,1015611457,4248210736,2323986101,150943605,0,2285418970
