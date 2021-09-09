@@ -3,8 +3,10 @@ description:this list has a collection of items not seen on the community or oth
 
 //notes:Moon weapon god rolls
 
+//notes:Every waking moment
+dimwishlist:item=4277547616&perks=3661387068,1885400500,2450788523,1015611457
 
 
 
 //notes:S15 god roll/try-it-out
-dimwishlist:item=4277547616&perks=3661387068,1885400500,2450788523,1015611457
+
