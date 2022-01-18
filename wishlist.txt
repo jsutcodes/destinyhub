@@ -30,3 +30,6 @@ dimwishlist:item=1399243961
 
 //notes: kryloren - want to try headstone stasis mantle build
 dimwishlist:item=1622998472&perks=124408337
+
+//notes" kryloren - with the fullauto perk being in to weapon mods this actually feels really good. this is my sidearm godroll. 
+dimwishlist:item=1197486957&perks=4090651448,1087426260,3436462433,3592538738
