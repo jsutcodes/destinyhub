@@ -36,4 +36,6 @@ dimwishlist:item=1197486957&perks=4090651448,1087426260,3436462433,3592538738
 
 //notes: kryloren - genisis+ vorpal is an absolute hive wizard shreadder. this is a really fun weapon that i think will do well in higher level content 
 dimwishlist:item=20935540&perks=4090651448,3230963543,3096702027,1546637391,518224744
-dimwishlist:item=20935540&perks=4090651448,3230963543,3096702027,1546637391,518224744
+
+//notes: kryloren - osmosis sidearm feels really good. keep this sidearm 
+dimwishlist:item=2588048270&perks=445755707,1968497646,3436462433,1774574192,758092021
