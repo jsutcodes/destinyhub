@@ -39,3 +39,6 @@ dimwishlist:item=20935540&perks=4090651448,3230963543,3096702027,1546637391,5182
 
 //notes: kryloren - osmosis sidearm feels really good. keep this sidearm 
 dimwishlist:item=2588048270&perks=445755707,1968497646,3436462433,1774574192,758092021
+
+//notes: kryloren -Clown Cartridge has serious potential when paired with demolitionist. You can fire 2-4 consecutive rockets if you start a fight with 2 in the mag. Amazing for DPS. Explosive Light and Vorpal are also amazing options, especially when going for burst on champions. I would personally say go for Demo either way, then Clown for DPS and Explosive Light for burst.
+dimwishlist:item=4255171531&perks=981914802,2985827016,3523296417,2284787283,518224747
