@@ -34,6 +34,7 @@ dimwishlist:item=1622998472&perks=124408337
 //notes: kryloren - with the fullauto perk being in to weapon mods this actually feels really good. this is my sidearm godroll. 
 dimwishlist:item=1197486957&perks=4090651448,1087426260,3436462433,3592538738
 
+
 //notes: kryloren - genisis+ vorpal is an absolute hive wizard shreadder. this is a really fun weapon that i think will do well in higher level content 
 dimwishlist:item=20935540&perks=4090651448,3230963543,3096702027,1546637391,518224744
 
@@ -45,5 +46,9 @@ dimwishlist:item=4255171531&perks=981914802,2985827016,3523296417,2284787283,518
 //notes: kryloren -Precision autotracking arc rocket. only 2 better options are in the stability masterwook and allow casing.
 dimwishlist:item=42351395&perks=1441682018,3492396210,2010801679,1275731761,758092021
 
-//notes: demo perk works will with helmet 4th magic perks. unlimited gernades
+//notes: demo perk works will with helmet 4th magic perks. unlimited grenades
 dimwishlist:item=2496875173&perks=,3523296417
+
+
+//notes: demo perk works will with helmet 4th magic perks. unlimited grenades
+dimwishlist:item=1248372789&perks=4090651448,3142289711,1583705720,3523296417
