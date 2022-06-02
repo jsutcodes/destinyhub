@@ -52,3 +52,6 @@ dimwishlist:item=2496875173&perks=,3523296417
 
 //notes: demo perk works will with helmet 4th magic perks. unlimited grenades
 dimwishlist:item=1248372789&perks=4090651448,3142289711,1583705720,3523296417
+
+//notes: primary weapon good for match game 
+dimwishlist:item=1780464822&perks=,1048183818
