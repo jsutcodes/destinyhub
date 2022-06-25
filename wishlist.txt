@@ -55,3 +55,6 @@ dimwishlist:item=1248372789&perks=4090651448,3142289711,1583705720,3523296417
 
 //notes: primary weapon good for match game 
 dimwishlist:item=1780464822&perks=,1048183818
+
+//notes: calus mini tool god roll 
+dimwishlist:item=2490988246&perks=1482024992,106909392,1631667848,4293542123
