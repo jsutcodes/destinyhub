@@ -58,3 +58,6 @@ dimwishlist:item=1780464822&perks=,1048183818
 
 //notes: calus mini tool god roll 
 dimwishlist:item=2490988246&perks=1482024992,106909392,1631667848,4293542123
+
+//notes: voltshot is only add clearing linear fusion. Just reload after a kill and voltshot will clear the rest. Look for outlaw/compulsive reload/rapid hit in that order. 
+dimwishlist:item=1184309824&perks=839105230,1687452232,2173046394
